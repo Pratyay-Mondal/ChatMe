@@ -1,9 +1,16 @@
 # ChatMe 
-## An chat appllication
+### A chat application with multiple user groups
 
+Install Dependencies (node modules)
 ```
 npm install
-npm run dev
+```
 
+Start node js
+```
+npm run dev
+```
+For running the application
+```
 Go to localhost:3000
 ```
