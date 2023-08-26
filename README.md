@@ -6,7 +6,7 @@ Install Dependencies (node modules)
 npm install
 ```
 
-Start node js
+Start Node js
 ```
 npm run dev
 ```
