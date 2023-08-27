@@ -10,7 +10,7 @@ Start Node js
 ```
 npm run dev
 ```
-For running the application
+For running the application: go to localhost
 ```
-Go to localhost:3000
+http://localhost:3000/
 ```
