@@ -2,9 +2,15 @@
 ### A real-time chat application with multiple user groups
 
 ## Used Technologies:
-### Front-end: HTML, CSS, JavaScript, Vanilla.js
-### Back-end: Node.js, Express.js
-### Client-Server Communication: Socket.io 
+
+### Front-end: 
+HTML, CSS, JavaScript, Vanilla.js
+
+### Back-end: 
+Node.js, Express.js
+
+### Client-Server Communication: 
+Socket.io 
 
 Install Dependencies (node modules)
 ```
