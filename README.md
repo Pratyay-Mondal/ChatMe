@@ -1,5 +1,5 @@
 # ChatMe 
-### A real-time chat application with multiple user groups
+A real-time chat application with multiple user groups
 
 ## Used Technologies:
 
