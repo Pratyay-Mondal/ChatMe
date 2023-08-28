@@ -19,7 +19,7 @@ Install Dependencies (node modules)
 npm install
 ```
 
-Start Node js
+Start Node.js (back-end)
 ```
 npm run dev
 ```
