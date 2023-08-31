@@ -12,7 +12,12 @@ Node.js, Express.js
 ### Client-Server Communication: 
 Socket.io 
 
-#  
+# 
+
+Clone the repository
+```
+git clone https://github.com/Pratyay008/ChatMe.git
+```
 
 Install Dependencies (node modules)
 ```
