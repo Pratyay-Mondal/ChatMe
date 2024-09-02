@@ -4,7 +4,7 @@ A real-time chat application with multiple user groups
 ## Used Technologies:
 
 ### Front-end: 
-HTML, CSS, JavaScript, Vanilla.js
+HTML, CSS, JavaScript
 
 ### Back-end: 
 Node.js, Express.js
