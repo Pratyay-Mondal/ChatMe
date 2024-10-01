@@ -1,6 +1,14 @@
 # ChatMe 
 I built a real-time chat application with multiple user groups where multiple people can chat simultaneously in their own groups.
 
+## Demo video:
+
+
+https://github.com/user-attachments/assets/3374b49e-ca89-414d-9a18-1e13131aba71
+
+
+
+
 ## Used Technologies:
 
 ### Front-end: 
