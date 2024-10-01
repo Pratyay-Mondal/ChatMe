@@ -1,5 +1,5 @@
 # ChatMe 
-A real-time chat application with multiple user groups
+I built a real-time chat application with multiple user groups where multiple people can chat simultaneously in their own groups.
 
 ## Used Technologies:
 
